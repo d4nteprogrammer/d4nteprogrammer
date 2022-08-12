@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on UE4 FPS Game Project
+- 🌱 I’m currently learning TypeScript and PHP
+
 <!--
 **d4nteprogrammer/d4nteprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
